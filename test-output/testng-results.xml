@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-28T20:21:20 IST" name="Suite" finished-at="2026-05-28T20:21:29 IST" duration-ms="9087">
+    <groups>
+      <group name="regression">
+        <method signature="Demo2Test.launchTest()[pri:0, instance:Practice.Demo2Test@23c30a20]" name="launchTest" class="Practice.Demo2Test"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2026-05-28T20:21:20 IST" name="Test" finished-at="2026-05-28T20:21:29 IST" duration-ms="9087">
+      <class name="Practice.Demo2Test">
+        <test-method signature="launchTest()[pri:0, instance:Practice.Demo2Test@23c30a20]" started-at="2026-05-28T20:21:20 IST" name="launchTest" finished-at="2026-05-28T20:21:29 IST" duration-ms="8946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTest -->
+      </class> <!-- Practice.Demo2Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
